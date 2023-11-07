@@ -1,0 +1,4 @@
+Student{id='1', email='ngoctoan1406@gmail.com', fullName='Nguyen Ngoc Toan', gender='Male', phoneNumber='0823832767', address='Hoan Lao \ Quang Binh', major='SE', gpa=3.4}
+Student{id='2', email='gakfc123@gmail.com', fullName='Nguyen Ngoc Minh', gender='Male', phoneNumber='0258235123', address='Trung Trach \ Quang Binh', major='Tour', gpa=3.6}
+Student{id='3', email='phantu0806@gmail.com', fullName='Phan Thi Tu', gender='Female', phoneNumber='0919134733', address='Da Lat', major='IB', gpa=3.5}
+Student{id='4', email='gachienmam@gmail.com', fullName='Hoang Van Thu', gender='Male', phoneNumber='0812412352', address='Quy Nhon', major='AI', gpa=3.9}

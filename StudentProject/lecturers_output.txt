@@ -1,0 +1,4 @@
+Lecturers{email='thtruemilk@gmail.com', passWord='matkhau123', fullName='Nguyen Van Toan', address='Hai Duong', subject='Java OOP'}
+Lecturers{email='intermiami@gmail.com', passWord='sicon10nam', fullName='Leo Messi', address='Argentina', subject='C++'}
+Lecturers{email='mancity@gmail.com', passWord='fodenETH', fullName='Phill Foden', address='England', subject='Database'}
+Lecturers{email='real@gmail.com', passWord='caubeVang', fullName='Jude Bellingham', address='England', subject='CSD'}
